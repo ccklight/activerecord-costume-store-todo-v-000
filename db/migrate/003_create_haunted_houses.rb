@@ -10,7 +10,7 @@
       t.datetime :closing_date
       t.text :description
 
-      t.timestamps null: false
+      #t.timestamps null: false
     end
   end
 end 
