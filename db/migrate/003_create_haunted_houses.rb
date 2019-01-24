@@ -16,7 +16,4 @@ end
 
 
 
-      t.timestamps null: false
-    end
-  end
-End
+    
