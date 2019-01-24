@@ -1,1 +1,1 @@
-#
+class HauntedHouses < ActiveRecord::Base
